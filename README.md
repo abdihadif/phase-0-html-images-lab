@@ -35,7 +35,7 @@ Instead, the relevant information is stored in attributes within the tag itself.
 
 There are two main attributes, `src`, the _source_ of the image, and `alt`, the
 _alternate_ text.
-
+git@github.com:abdihadif/phase-0-html-images-lab.git
 ## Use the `img` Tag Attributes
 
 ### The Image Source Attribute
